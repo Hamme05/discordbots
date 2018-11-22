@@ -45,4 +45,4 @@ async def on_message(message):
             await client.change_presence(game=discord.Game(name=statusName, type=statusType))
 
 ##client.run('NDYxMDk0ODcwOTk2NjE1MTcw.DhOTmw.LQeuY1Wmn8zCtBR5FyGumj3fcqw')
-client.run('herman8@andgart.se', 'husvagn8')
+client.run('username', 'password')
